@@ -1,5 +1,4 @@
 # ------------------------------------------------
-# Program by Denis Astahov
 #
 #
 # Version      Date           Info
