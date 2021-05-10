@@ -6,7 +6,7 @@ env:
   EB_APPLICATION_NAMW      : 'flask'
   EB_ENVIRONMENT           : 'flask-env'
   DEPLOY_PACKAGE_NAME      : "flask app_${{github.sha}}.zip"
-  AWS_REGION_NAME          : 'eu-central-1'  
+  AWS_REGION_NAME          : "eu-central-1"
 
 on:
   push:
